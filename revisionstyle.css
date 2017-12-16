@@ -1,0 +1,14 @@
+
+
+*{
+  margin:0;
+}
+
+td {
+  border-right: 1px solid blue;
+}
+
+h1{
+  colour:white;
+  background-orange:orange;
+}

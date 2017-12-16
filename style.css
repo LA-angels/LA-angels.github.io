@@ -1,0 +1,25 @@
+/*
+this is a comment
+
+. is class selector
+# is id selector
+
+*/
+
+* {
+  margin: 0;
+}
+
+.image{
+  height: 315px;
+  width: 300px;
+}
+h1{
+  font-family:"Arial Black", Gadget, sans-serif;
+  background-color:  blue;
+  }
+
+  h2{
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    background-color: grey
+  }
