@@ -1,0 +1,19 @@
+ol > li {
+  list-style-type: none;
+}
+
+.list {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#baseball_project {
+  width: 1082px;
+  height: auto;
+}
+
+hr {
+  height: 2px;
+  color: #a4a9b2;
+  background-color: #a4a9b2;
+}

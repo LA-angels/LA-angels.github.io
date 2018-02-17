@@ -1,0 +1,15 @@
+.bgImage{
+  height: 600px;
+  background: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Texas-Rangers-Wallpapers-HD-768x432.jpg");
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.TexasRangers{
+  margin-top: 20px;
+}
+
+input{
+  width:100px;
+}
